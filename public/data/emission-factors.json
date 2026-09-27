@@ -1,0 +1,92 @@
+{
+  "fuelTypes": {
+    "HFO": {
+      "name": "Heavy Fuel Oil",
+      "cf": 3.114,
+      "unit": "t CO₂ / t fuel",
+      "note": "IMO MEPC.364(79)"
+    },
+    "LFO": {
+      "name": "Light Fuel Oil",
+      "cf": 3.151,
+      "unit": "t CO₂ / t fuel",
+      "note": "IMO MEPC.364(79)"
+    },
+    "MDO": {
+      "name": "Marine Diesel Oil / Marine Gas Oil",
+      "cf": 3.206,
+      "unit": "t CO₂ / t fuel",
+      "note": "IMO MEPC.364(79)"
+    },
+    "LNG": {
+      "name": "Liquefied Natural Gas",
+      "cf": 2.750,
+      "unit": "t CO₂ / t fuel",
+      "note": "IMO MEPC.364(79)"
+    },
+    "LPG_Propane": {
+      "name": "Liquefied Petroleum Gas (Propane)",
+      "cf": 3.000,
+      "unit": "t CO₂ / t fuel",
+      "note": "IMO MEPC.364(79)"
+    },
+    "LPG_Butane": {
+      "name": "Liquefied Petroleum Gas (Butane)",
+      "cf": 3.030,
+      "unit": "t CO₂ / t fuel",
+      "note": "IMO MEPC.364(79)"
+    },
+    "Methanol": {
+      "name": "Methanol",
+      "cf": 1.375,
+      "unit": "t CO₂ / t fuel",
+      "note": "IMO MEPC.364(79)"
+    },
+    "Ethanol": {
+      "name": "Ethanol",
+      "cf": 1.913,
+      "unit": "t CO₂ / t fuel",
+      "note": "IMO MEPC.364(79)"
+    }
+  },
+  "biofuelScenarios": {
+    "B10_POME": {
+      "name": "B10 POME Blend (10% Palm Oil Methyl Ester)",
+      "baselineFuel": "MDO",
+      "blendRatio": 0.10,
+      "co2ReductionPercent": 8,
+      "noxReductionPercent": 12,
+      "validatedByOwnResearch": true,
+      "source": "Wan Mansor et al. (2022)"
+    },
+    "B20_POME": {
+      "name": "B20 POME Blend (20% Palm Oil Methyl Ester)",
+      "baselineFuel": "MDO",
+      "blendRatio": 0.20,
+      "co2ReductionPercent": 15,
+      "noxReductionPercent": 18,
+      "validatedByOwnResearch": true,
+      "source": "Wan Mansor et al. (2022), extrapolated"
+    },
+    "DualFuel_LNG": {
+      "name": "Dual-Fuel Diesel-LNG",
+      "baselineFuel": "HFO",
+      "gasSubstitutionRatio": 0.70,
+      "co2ReductionPercent": 20,
+      "noxReductionPercent": 25,
+      "validatedByOwnResearch": true,
+      "source": "Wan Mansor et al. (2015, 2016)"
+    }
+  },
+  "ciiRatingBoundaries": {
+    "description": "CII rating boundaries as per IMO MEPC.354(78). Boundaries are expressed as ratios of the reference CII value (d-vector). Ships with attainedCII/requiredCII <= superior boundary get A, etc.",
+    "note": "These are simplified representative values. Actual boundaries vary by ship type and size.",
+    "ratings": {
+      "A": { "label": "Superior", "upperBound": 0.83, "color": "#22c55e" },
+      "B": { "label": "Minor Superior", "upperBound": 0.94, "color": "#84cc16" },
+      "C": { "label": "Moderate", "upperBound": 1.06, "color": "#eab308" },
+      "D": { "label": "Minor Inferior", "upperBound": 1.18, "color": "#f97316" },
+      "E": { "label": "Inferior", "upperBound": 999, "color": "#ef4444" }
+    }
+  }
+}

@@ -1,0 +1,139 @@
+[
+  {
+    "id": "op-speed",
+    "category": "Operational",
+    "measure": "Speed reduction / slow steaming",
+    "description": "Reducing average voyage speed by 1 to 2 knots significantly lowers fuel consumption and CO₂ emissions due to the cubic relationship between speed and power.",
+    "ciiImprovementMin": 8,
+    "ciiImprovementMax": 10,
+    "timeline": "Immediate",
+    "cost": "Low",
+    "sources": [
+      "Faber, J. et al. (2020). Fourth IMO GHG Study 2020. IMO.",
+      "Cariou, P. (2011). Is slow steaming a sustainable means of reducing CO₂ emissions from container shipping? Transportation Research Part D, 16(3), 260-264."
+    ]
+  },
+  {
+    "id": "op-voyage",
+    "category": "Operational",
+    "measure": "Voyage and trim optimisation",
+    "description": "Optimising voyage routes to minimise distance and adverse weather, combined with hull trim adjustments, reduces drag and fuel consumption.",
+    "ciiImprovementMin": 3,
+    "ciiImprovementMax": 5,
+    "timeline": "Immediate",
+    "cost": "Low",
+    "sources": [
+      "Psaraftis, H.N. & Kontovas, C.A. (2013). Speed models for energy-efficient maritime transportation. Transportation Research Part C, 26, 331-351."
+    ]
+  },
+  {
+    "id": "op-weather",
+    "category": "Operational",
+    "measure": "Weather routing",
+    "description": "Using meteorological data to plan routes that avoid heavy weather, minimising added resistance and fuel consumption.",
+    "ciiImprovementMin": 2,
+    "ciiImprovementMax": 4,
+    "timeline": "Immediate",
+    "cost": "Low",
+    "sources": [
+      "Shao, W. et al. (2018). Development of a novel forward dynamic programming method for weather routing. Ocean Engineering, 150, 240-250."
+    ]
+  },
+  {
+    "id": "tech-hull",
+    "category": "Technical",
+    "measure": "Hull and propeller cleaning",
+    "description": "Regular removal of biofouling from hull and propeller surfaces restores hydrodynamic efficiency and reduces fuel penalty from increased roughness.",
+    "ciiImprovementMin": 2,
+    "ciiImprovementMax": 4,
+    "timeline": "Immediate",
+    "cost": "Low",
+    "sources": [
+      "Adland, R. et al. (2018). The value of meteorological data in marine risk assessment. Reliability Engineering & System Safety, 169, 58-68."
+    ]
+  },
+  {
+    "id": "tech-coating",
+    "category": "Technical",
+    "measure": "Low-friction hull coatings",
+    "description": "Application of advanced anti-fouling and friction-reducing coatings during drydocking to reduce hull drag and fuel consumption over the coating lifecycle.",
+    "ciiImprovementMin": 5,
+    "ciiImprovementMax": 7,
+    "timeline": "Next drydock",
+    "cost": "Medium",
+    "sources": [
+      "Lindgren, J.F. et al. (2016). Fuel efficiency and exhaust emissions. In Shipping and the Environment, Springer, 1-27."
+    ]
+  },
+  {
+    "id": "tech-esd",
+    "category": "Technical",
+    "measure": "Energy-saving devices (ESD)",
+    "description": "Installation of devices such as pre-swirl stators, Mewis ducts, or propeller boss cap fins to improve propulsive efficiency.",
+    "ciiImprovementMin": 3,
+    "ciiImprovementMax": 5,
+    "timeline": "Next drydock",
+    "cost": "Medium",
+    "sources": [
+      "Mäkiharju, S.A. et al. (2012). On the energy economics of air lubrication drag reduction. International Journal of Naval Architecture and Ocean Engineering, 4(4), 412-422."
+    ]
+  },
+  {
+    "id": "tech-whr",
+    "category": "Technical",
+    "measure": "Waste heat recovery (WHR)",
+    "description": "Capturing waste heat from engine exhaust to generate additional electrical power, reducing auxiliary engine load and overall fuel consumption.",
+    "ciiImprovementMin": 3,
+    "ciiImprovementMax": 8,
+    "timeline": "Major retrofit",
+    "cost": "High",
+    "sources": [
+      "Shu, G. et al. (2013). A review of waste heat recovery on two-stroke IC engine aboard ships. Renewable and Sustainable Energy Reviews, 19, 385-401."
+    ]
+  },
+  {
+    "id": "fuel-biofuel",
+    "category": "Fuel Strategy",
+    "measure": "Biofuel blending (e.g., POME B10 to B20)",
+    "description": "Blending palm oil methyl ester (POME) or other biodiesel with conventional marine fuel. Combustion-level research has validated NOx and CO₂ reduction potential at the engine scale.",
+    "ciiImprovementMin": 10,
+    "ciiImprovementMax": 15,
+    "timeline": "Short-term",
+    "cost": "Medium",
+    "validatedByOwnResearch": true,
+    "sources": [
+      "Wan Mansor, W.N. et al. (2022). The NOx Reduction Performances for Blended Palm Oil Methyl Ester in Marine Diesel Engine.",
+      "DNV (2023). Maritime Forecast to 2050."
+    ]
+  },
+  {
+    "id": "fuel-dualfuel",
+    "category": "Fuel Strategy",
+    "measure": "Dual-fuel operation (diesel-LNG)",
+    "description": "Operating engines in dual-fuel mode with LNG as primary fuel reduces CO₂ and virtually eliminates SOx and PM. Computational modelling has validated the combustion dynamics and emission profiles.",
+    "ciiImprovementMin": 15,
+    "ciiImprovementMax": 25,
+    "timeline": "Medium-term (engine retrofit)",
+    "cost": "High",
+    "validatedByOwnResearch": true,
+    "sources": [
+      "Wan Mansor, W.N. et al. (2016). Computational Modeling of Diesel and Dual Fuel Combustion.",
+      "Wan Mansor, W.N. et al. (2015). Effects of Diesel Displacement on the Emissions.",
+      "Balcombe, P. et al. (2019). How to decarbonise international shipping. Energy Conversion and Management, 182, 72-88."
+    ]
+  },
+  {
+    "id": "fuel-lng",
+    "category": "Fuel Strategy",
+    "measure": "Full LNG transition",
+    "description": "Complete transition to LNG as primary fuel for new builds or major retrofits. Offers significant CO₂ reduction compared to HFO/MDO, though methane slip must be managed.",
+    "ciiImprovementMin": 20,
+    "ciiImprovementMax": 25,
+    "timeline": "Long-term (new build / major retrofit)",
+    "cost": "Very High",
+    "sources": [
+      "Balcombe, P. et al. (2019). How to decarbonise international shipping. Energy Conversion and Management, 182, 72-88.",
+      "Pavlenko, N. et al. (2020). The climate implications of using LNG as a marine fuel. ICCT Working Paper."
+    ]
+  }
+]

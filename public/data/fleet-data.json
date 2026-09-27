@@ -1,0 +1,6902 @@
+{
+  "metadata": {
+    "source": "Jabatan Laut Malaysia (JLM)",
+    "years": [
+      2019,
+      2020,
+      2021,
+      2022
+    ],
+    "totalShips": 180,
+    "shipsWithRatings": 54,
+    "extractedAt": "2026-09-22T14:47:41.534Z"
+  },
+  "summary": {
+    "ratingDistribution": {
+      "A": 7,
+      "B": 10,
+      "C": 9,
+      "D": 16,
+      "E": 12
+    },
+    "yearlyRatingDistribution": {
+      "2019": {
+        "A": 7,
+        "B": 10,
+        "C": 9,
+        "D": 16,
+        "E": 12
+      },
+      "2020": {
+        "A": 0,
+        "B": 0,
+        "C": 0,
+        "D": 0,
+        "E": 0
+      },
+      "2021": {
+        "A": 0,
+        "B": 0,
+        "C": 0,
+        "D": 0,
+        "E": 0
+      },
+      "2022": {
+        "A": 0,
+        "B": 0,
+        "C": 0,
+        "D": 0,
+        "E": 0
+      }
+    },
+    "shipTypeDistribution": {
+      "Container Ship": 18,
+      "Bulk Carrier": 10,
+      "Unknown": 126,
+      "LNG Carrier": 26
+    },
+    "fuelTypeDistribution": {
+      "MDO/MGO": 155,
+      "HFO": 21,
+      "LFO": 3,
+      "LNG": 1
+    },
+    "trendDistribution": {
+      "Single Year": 54,
+      "Insufficient Data": 126
+    }
+  },
+  "ships": [
+    {
+      "imo": "9242584",
+      "name": "",
+      "shipType": "Container Ship",
+      "shipTypeRaw": "Containership",
+      "grossTonnage": 6277,
+      "dwt": 7922,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO",
+        "LFO"
+      ],
+      "trend": "Single Year",
+      "years": {
+        "2019": {
+          "totalCO2": 15996.7,
+          "distanceTravelled": 74114,
+          "attainedCII": 27.246,
+          "requiredCII": 24.604,
+          "rating": "D"
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 67639,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9242601",
+      "name": "",
+      "shipType": "Container Ship",
+      "shipTypeRaw": "Containership",
+      "grossTonnage": 6277,
+      "dwt": 7977,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO",
+        "LFO"
+      ],
+      "trend": "Single Year",
+      "years": {
+        "2019": {
+          "totalCO2": 4257.93,
+          "distanceTravelled": 17844,
+          "attainedCII": 29.913,
+          "requiredCII": 24.521,
+          "rating": "E"
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 67684,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9176503",
+      "name": "",
+      "shipType": "Container Ship",
+      "shipTypeRaw": "Containership",
+      "grossTonnage": 6775,
+      "dwt": 8888,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO",
+        "LFO"
+      ],
+      "trend": "Single Year",
+      "years": {
+        "2019": {
+          "totalCO2": 11007.24,
+          "distanceTravelled": 50875,
+          "attainedCII": 24.343,
+          "requiredCII": 23.258,
+          "rating": "C"
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 54979,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9438080",
+      "name": "",
+      "shipType": "Container Ship",
+      "shipTypeRaw": "Containership",
+      "grossTonnage": 8724,
+      "dwt": 12000,
+      "yearOfBuild": "",
+      "primaryFuel": "HFO",
+      "fuelTypes": [
+        "HFO",
+        "MDO/MGO",
+        "LFO"
+      ],
+      "trend": "Single Year",
+      "years": {
+        "2019": {
+          "totalCO2": 9150.34,
+          "distanceTravelled": 46587,
+          "attainedCII": 16.368,
+          "requiredCII": 20.083,
+          "rating": "A"
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 48618,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 44995,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 43107,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9477268",
+      "name": "",
+      "shipType": "Container Ship",
+      "shipTypeRaw": "Containership",
+      "grossTonnage": 9689,
+      "dwt": 13177,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO"
+      ],
+      "trend": "Single Year",
+      "years": {
+        "2019": {
+          "totalCO2": 8599.54,
+          "distanceTravelled": 41793,
+          "attainedCII": 15.615,
+          "requiredCII": 19.185,
+          "rating": "A"
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 38162,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 34947,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 38585,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9322889",
+      "name": "",
+      "shipType": "Container Ship",
+      "shipTypeRaw": "Containership",
+      "grossTonnage": 10308,
+      "dwt": 12572,
+      "yearOfBuild": "",
+      "primaryFuel": "HFO",
+      "fuelTypes": [
+        "HFO",
+        "LFO",
+        "MDO/MGO"
+      ],
+      "trend": "Single Year",
+      "years": {
+        "2019": {
+          "totalCO2": 4347.14,
+          "distanceTravelled": 18478,
+          "attainedCII": 18.713,
+          "requiredCII": 19.631,
+          "rating": "C"
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 58611,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 50750,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 61105,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9165449",
+      "name": "",
+      "shipType": "Container Ship",
+      "shipTypeRaw": "Containership",
+      "grossTonnage": 10384,
+      "dwt": 12171,
+      "yearOfBuild": "",
+      "primaryFuel": "HFO",
+      "fuelTypes": [
+        "HFO",
+        "MDO/MGO",
+        "LFO"
+      ],
+      "trend": "Single Year",
+      "years": {
+        "2019": {
+          "totalCO2": 53028.38,
+          "distanceTravelled": 66739,
+          "attainedCII": 65.283,
+          "requiredCII": 19.944,
+          "rating": "E"
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 52257,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 65623,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 63597,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9126869",
+      "name": "",
+      "shipType": "Container Ship",
+      "shipTypeRaw": "Containership",
+      "grossTonnage": 10743,
+      "dwt": 14099,
+      "yearOfBuild": "",
+      "primaryFuel": "HFO",
+      "fuelTypes": [
+        "HFO",
+        "MDO/MGO",
+        "LFO"
+      ],
+      "trend": "Single Year",
+      "years": {
+        "2019": {
+          "totalCO2": 16368.97,
+          "distanceTravelled": 67775,
+          "attainedCII": 17.13,
+          "requiredCII": 18.56,
+          "rating": "B"
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 49314,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 37780,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 46030,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9159086",
+      "name": "",
+      "shipType": "Container Ship",
+      "shipTypeRaw": "Containership",
+      "grossTonnage": 11810,
+      "dwt": 15639,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO"
+      ],
+      "trend": "Single Year",
+      "years": {
+        "2019": {
+          "totalCO2": 12516.86,
+          "distanceTravelled": 58735,
+          "attainedCII": 13.627,
+          "requiredCII": 17.643,
+          "rating": "A"
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 56597,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 50688,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 35045,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9813852",
+      "name": "",
+      "shipType": "Container Ship",
+      "shipTypeRaw": "Containership",
+      "grossTonnage": 13059,
+      "dwt": 16000,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO",
+        "LFO"
+      ],
+      "trend": "Single Year",
+      "years": {
+        "2019": {
+          "totalCO2": 4831.93,
+          "distanceTravelled": 20631,
+          "attainedCII": 14.638,
+          "requiredCII": 17.447,
+          "rating": "B"
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 72125,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 66225,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 66557,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9236341",
+      "name": "",
+      "shipType": "Container Ship",
+      "shipTypeRaw": "Containership",
+      "grossTonnage": 13245,
+      "dwt": 17946,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO"
+      ],
+      "trend": "Single Year",
+      "years": {
+        "2019": {
+          "totalCO2": 11030.66,
+          "distanceTravelled": 39077,
+          "attainedCII": 15.729,
+          "requiredCII": 16.495,
+          "rating": "C"
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 44378,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9151424",
+      "name": "",
+      "shipType": "Container Ship",
+      "shipTypeRaw": "Containership",
+      "grossTonnage": 13448,
+      "dwt": 17224,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO"
+      ],
+      "trend": "Single Year",
+      "years": {
+        "2019": {
+          "totalCO2": 16624.83,
+          "distanceTravelled": 49467,
+          "attainedCII": 19.512,
+          "requiredCII": 16.83,
+          "rating": "D"
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 44041,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 49582,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 44769,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9146065",
+      "name": "",
+      "shipType": "Container Ship",
+      "shipTypeRaw": "Containership",
+      "grossTonnage": 13448,
+      "dwt": 17182,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO",
+        "LFO"
+      ],
+      "trend": "Single Year",
+      "years": {
+        "2019": {
+          "totalCO2": 14222.1,
+          "distanceTravelled": 53622,
+          "attainedCII": 15.436,
+          "requiredCII": 16.85,
+          "rating": "B"
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 49475,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 67555,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 47601,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9101106",
+      "name": "",
+      "shipType": "Container Ship",
+      "shipTypeRaw": "Containership",
+      "grossTonnage": 15095,
+      "dwt": 18595,
+      "yearOfBuild": "",
+      "primaryFuel": "HFO",
+      "fuelTypes": [
+        "HFO",
+        "MDO/MGO",
+        "LFO"
+      ],
+      "trend": "Single Year",
+      "years": {
+        "2019": {
+          "totalCO2": 12648.44,
+          "distanceTravelled": 65371,
+          "attainedCII": 10.405,
+          "requiredCII": 16.211,
+          "rating": "A"
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 50548,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 66796,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 67226,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9148532",
+      "name": "",
+      "shipType": "Container Ship",
+      "shipTypeRaw": "Containership",
+      "grossTonnage": 15095,
+      "dwt": 18576,
+      "yearOfBuild": "",
+      "primaryFuel": "HFO",
+      "fuelTypes": [
+        "HFO",
+        "LFO",
+        "MDO/MGO"
+      ],
+      "trend": "Single Year",
+      "years": {
+        "2019": {
+          "totalCO2": 14087.44,
+          "distanceTravelled": 54239,
+          "attainedCII": 13.982,
+          "requiredCII": 16.219,
+          "rating": "B"
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 60396,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 67436,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 58068,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9216731",
+      "name": "",
+      "shipType": "Container Ship",
+      "shipTypeRaw": "Containership",
+      "grossTonnage": 16850,
+      "dwt": 21373,
+      "yearOfBuild": "",
+      "primaryFuel": "HFO",
+      "fuelTypes": [
+        "HFO",
+        "LFO",
+        "MDO/MGO"
+      ],
+      "trend": "Single Year",
+      "years": {
+        "2019": {
+          "totalCO2": 20567.15,
+          "distanceTravelled": 61303,
+          "attainedCII": 15.697,
+          "requiredCII": 15.144,
+          "rating": "C"
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 45723,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 54388,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 56128,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9155389",
+      "name": "",
+      "shipType": "Container Ship",
+      "shipTypeRaw": "Containership",
+      "grossTonnage": 18335,
+      "dwt": 23577,
+      "yearOfBuild": "",
+      "primaryFuel": "HFO",
+      "fuelTypes": [
+        "HFO",
+        "MDO/MGO",
+        "LFO"
+      ],
+      "trend": "Single Year",
+      "years": {
+        "2019": {
+          "totalCO2": 11666.49,
+          "distanceTravelled": 55360,
+          "attainedCII": 8.938,
+          "requiredCII": 14.434,
+          "rating": "A"
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 47131,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 30776,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 64190,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9614505",
+      "name": "",
+      "shipType": "Container Ship",
+      "shipTypeRaw": "Containership",
+      "grossTonnage": 25483,
+      "dwt": 30813,
+      "yearOfBuild": "",
+      "primaryFuel": "HFO",
+      "fuelTypes": [
+        "HFO",
+        "MDO/MGO"
+      ],
+      "trend": "Single Year",
+      "years": {
+        "2019": {
+          "totalCO2": 23550.89,
+          "distanceTravelled": 7148,
+          "attainedCII": 106.927,
+          "requiredCII": 12.663,
+          "rating": "E"
+        }
+      }
+    },
+    {
+      "imo": "9629237",
+      "name": "",
+      "shipType": "Bulk Carrier",
+      "shipTypeRaw": "Bulk carrier",
+      "grossTonnage": 9792,
+      "dwt": 13459,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO"
+      ],
+      "trend": "Single Year",
+      "years": {
+        "2019": {
+          "totalCO2": 5875.43,
+          "distanceTravelled": 30452,
+          "attainedCII": 14.335,
+          "requiredCII": 12.823,
+          "rating": "D"
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 36781,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 34880,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 33118,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9354064",
+      "name": "",
+      "shipType": "Bulk Carrier",
+      "shipTypeRaw": "Bulk carrier",
+      "grossTonnage": 11681,
+      "dwt": 18951,
+      "yearOfBuild": "",
+      "primaryFuel": "HFO",
+      "fuelTypes": [
+        "HFO",
+        "MDO/MGO"
+      ],
+      "trend": "Single Year",
+      "years": {
+        "2019": {
+          "totalCO2": 7874.23,
+          "distanceTravelled": 33018,
+          "attainedCII": 12.584,
+          "requiredCII": 10.365,
+          "rating": "E"
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 26802,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9074690",
+      "name": "",
+      "shipType": "Bulk Carrier",
+      "shipTypeRaw": "Bulk carrier",
+      "grossTonnage": 15932,
+      "dwt": 26444,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO"
+      ],
+      "trend": "Single Year",
+      "years": {
+        "2019": {
+          "totalCO2": 6340.9,
+          "distanceTravelled": 30366,
+          "attainedCII": 7.897,
+          "requiredCII": 8.425,
+          "rating": "B"
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 36905,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 37152,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 31539,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9316921",
+      "name": "",
+      "shipType": "Bulk Carrier",
+      "shipTypeRaw": "Bulk carrier",
+      "grossTonnage": 21059,
+      "dwt": 35287,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO"
+      ],
+      "trend": "Single Year",
+      "years": {
+        "2019": {
+          "totalCO2": 11722.15,
+          "distanceTravelled": 47969,
+          "attainedCII": 6.925,
+          "requiredCII": 7.041,
+          "rating": "C"
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 42769,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 49637,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 45230,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9460538",
+      "name": "",
+      "shipType": "Bulk Carrier",
+      "shipTypeRaw": "Bulk carrier",
+      "grossTonnage": 40070,
+      "dwt": 76334,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO",
+        "LFO"
+      ],
+      "trend": "Single Year",
+      "years": {
+        "2019": {
+          "totalCO2": 12919.26,
+          "distanceTravelled": 45190,
+          "attainedCII": 3.745,
+          "requiredCII": 4.357,
+          "rating": "A"
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 40956,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 54131,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 57785,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9566851",
+      "name": "",
+      "shipType": "Bulk Carrier",
+      "shipTypeRaw": "Bulk carrier",
+      "grossTonnage": 43501,
+      "dwt": 79427,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "LFO",
+        "HFO"
+      ],
+      "trend": "Single Year",
+      "years": {
+        "2019": {
+          "totalCO2": 17012.23,
+          "distanceTravelled": 36511,
+          "attainedCII": 5.866,
+          "requiredCII": 4.251,
+          "rating": "E"
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 30642,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9285160",
+      "name": "",
+      "shipType": "Bulk Carrier",
+      "shipTypeRaw": "Bulk carrier",
+      "grossTonnage": 46982,
+      "dwt": 87052,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "LFO",
+        "HFO"
+      ],
+      "trend": "Single Year",
+      "years": {
+        "2019": {
+          "totalCO2": 14425.5,
+          "distanceTravelled": 44151,
+          "attainedCII": 3.753,
+          "requiredCII": 4.015,
+          "rating": "B"
+        }
+      }
+    },
+    {
+      "imo": "9805697",
+      "name": "",
+      "shipType": "Bulk Carrier",
+      "shipTypeRaw": "Bulk carrier",
+      "grossTonnage": 47178,
+      "dwt": 85020,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO",
+        "LFO"
+      ],
+      "trend": "Single Year",
+      "years": {
+        "2019": {
+          "totalCO2": 8311.46,
+          "distanceTravelled": 31757,
+          "attainedCII": 3.078,
+          "requiredCII": 4.074,
+          "rating": "A"
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 55584,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 62568,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 46620,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9496680",
+      "name": "",
+      "shipType": "Bulk Carrier",
+      "shipTypeRaw": "Bulk carrier",
+      "grossTonnage": 51255,
+      "dwt": 93226,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO"
+      ],
+      "trend": "Single Year",
+      "years": {
+        "2019": {
+          "totalCO2": 16006.46,
+          "distanceTravelled": 34478,
+          "attainedCII": 4.98,
+          "requiredCII": 3.848,
+          "rating": "E"
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 27555,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 23055,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9311828",
+      "name": "",
+      "shipType": "Bulk Carrier",
+      "shipTypeRaw": "Bulk carrier",
+      "grossTonnage": 90091,
+      "dwt": 180310,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "LFO",
+        "HFO"
+      ],
+      "trend": "Single Year",
+      "years": {
+        "2019": {
+          "totalCO2": 29209.64,
+          "distanceTravelled": 68280,
+          "attainedCII": 2.373,
+          "requiredCII": 2.553,
+          "rating": "B"
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 74511,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 76033,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 55391,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9598256",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 41953,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 41155,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 44009,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 39860,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9389514",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 24398,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9389526",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 50613,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 4027,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9399349",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 58416,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9399351",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 67782,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 13398,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9399363",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 48613,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9598268",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO",
+        "LFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 39781,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 48206,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 40097,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 41314,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9302968",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 75458,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 56109,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9189122",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 49908,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 46652,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 39860,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9337133",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 83294,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 76456,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 31106,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9327114",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 76528,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 69031,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 85101,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 68045,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9327554",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 67898,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 70997,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 81440,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 80456,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9795074",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO",
+        "LNG",
+        "LFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 47385,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 46953,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 48050,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 67773,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9292979",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 36489,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 39741,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 35016,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 12026,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9186950",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO",
+        "LFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 73550,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 55806,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 66907,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 61467,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9082324",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO",
+        "LFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 77216,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 59768,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 76055,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 92729,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9273337",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO",
+        "LFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 73733,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9292632",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 73129,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 26063,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 2950,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9292981",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 24371,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 20859,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 24553,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 14156,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9284582",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 29463,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 27547,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 24833,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9284594",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO",
+        "LFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 37176,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 42222,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 33834,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9696187",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 9255,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 18378,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 9856,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 18969,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9277486",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 58246,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 54360,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 55777,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 12773,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9826885",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "LFO",
+        "HFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 45420,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 35507,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 41232,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9389497",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO",
+        "LFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 39434,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9705627",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 3234,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 2796,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 2172,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 1690,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9705639",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 1561,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 1693,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 826,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 1493,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9075424",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 1074,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 9960,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 637,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 7290,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9075395",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 848,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 13359,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 9960,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 4996,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9075412",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 142,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 681,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 12862,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 6392,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9391270",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 4245,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 8800,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9488700",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 12572,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 42718,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 40602,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 36497,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9493042",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 25461,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 42265,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 45174,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 38488,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9443061",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 39000,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 8748,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 3927,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9411288",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 26549,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 40754,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9425370",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 26803,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 42434,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9410193",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO",
+        "LFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 31272,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 38592,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 6121,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9505390",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO",
+        "LFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 43664,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 47061,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 320,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9238870",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO",
+        "LFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 45577,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 50186,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 36231,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9032331",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "LFO",
+        "HFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 72309,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 67774,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 51991,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 49877,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9696175",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 8579,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 2348,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 8136,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 6240,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9505106",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 6557,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 4595,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 6038,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 5967,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9338228",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 6364,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 4630,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 4952,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 5550,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9446477",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "LFO",
+        "HFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 93434,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 90342,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 89230,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 93975,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9629225",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 39354,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 42260,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 31988,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 32840,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9559470",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 36030,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 42678,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 43909,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 38476,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9559482",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 35181,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 38522,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 40764,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 39091,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9100542",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 47033,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 39672,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 40298,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 35531,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9100530",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 37886,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9084293",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 39703,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 31270,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9500352",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 46930,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 34090,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 37393,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9420095",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "LFO",
+        "HFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 33753,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 39299,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9572886",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "HFO",
+      "fuelTypes": [
+        "HFO",
+        "MDO/MGO",
+        "LFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 36927,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 39246,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 33636,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9572874",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "LFO",
+        "HFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 32830,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 23111,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 29157,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 34600,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9685059",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "LFO",
+        "HFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 38890,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 36746,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 28340,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 29973,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9546825",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO",
+        "LFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 34004,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 29440,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 27946,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 41740,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9564372",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "LFO",
+        "HFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 28615,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 38914,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 19814,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 31798,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9564396",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO",
+        "LFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 34518,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 32013,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 27912,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 29565,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9291171",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 23970,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 33465,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 27655,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 43495,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9564401",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "LFO",
+        "HFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 33530,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 36649,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 35324,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9417476",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO",
+        "LFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 46426,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 27664,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 35317,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9554901",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO",
+        "LFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 29871,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 38205,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 21815,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9554913",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO",
+        "LFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 35058,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 24561,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9572111",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 38461,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 35379,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9524657",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO",
+        "LFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 33009,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 27832,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 29435,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 23497,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9546837",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO",
+        "LFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 35576,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 23691,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 27283,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 28522,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9524671",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO",
+        "LFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 35819,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 37768,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 25931,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 31678,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9396880",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "LFO",
+      "fuelTypes": [
+        "LFO",
+        "MDO/MGO",
+        "HFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 30079,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 27065,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 27186,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 36125,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9434084",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "HFO",
+      "fuelTypes": [
+        "HFO",
+        "LFO",
+        "MDO/MGO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 42292,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 33661,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 25564,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 19772,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9434096",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "HFO",
+      "fuelTypes": [
+        "HFO",
+        "LFO",
+        "MDO/MGO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 26707,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 25541,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 26094,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 25554,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9434101",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "HFO",
+      "fuelTypes": [
+        "HFO",
+        "MDO/MGO",
+        "LFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 18027,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 17477,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 34091,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 30526,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9548160",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "LFO",
+      "fuelTypes": [
+        "LFO",
+        "MDO/MGO",
+        "HFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 91,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 16136,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 22634,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 31481,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9383144",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "LFO",
+        "HFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 32360,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 26958,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 23558,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9389502",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2019": {
+          "totalCO2": 0,
+          "distanceTravelled": 44690,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9546722",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "LFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 21794,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 24514,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9546708",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "LFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 4085,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9570319",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "LFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 8165,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9406271",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "LFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 48656,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 52452,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9546710",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "LFO",
+        "HFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 24800,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9446489",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "LFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 48666,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 88358,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 77070,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9135092",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "LFO",
+        "HFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 70446,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9830898",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "LNG"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 4244,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 11433,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 7279,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9813876",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO",
+        "LFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 83925,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 78904,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9645217",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 6406,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 3591,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 6178,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9645229",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 814,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 6612,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 21570,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9274630",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 48,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9075400",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 3212,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 11509,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 9920,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9846990",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO",
+        "LFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 9246,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 13189,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 33950,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "8306591",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 22842,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 24746,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 16573,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9607150",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "LFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 40024,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 35529,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9494917",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "LFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 2031,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9431915",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 19651,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 10678,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 9833,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9242118",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "LFO",
+        "HFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 16430,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 40142,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 32948,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9101651",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO",
+        "LFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 42805,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 41846,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9622863",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 511,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9689196",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 1086,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 711,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9717797",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 956,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 487,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9117820",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 26560,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "8402606",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 0,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9542283",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "LFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 17841,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 93779,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9245225",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "LFO",
+        "HFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 47588,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 63002,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9206023",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "LFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 9557,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 43360,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9689237",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 1289,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9689249",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 451,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9872236",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "HFO",
+      "fuelTypes": [
+        "HFO",
+        "LFO",
+        "MDO/MGO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 27949,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 65987,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9568043",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "LFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 7776,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 27987,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9701671",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 7480,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 2970,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9899569",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "LFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 28284,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9899571",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "LFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 29865,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 40535,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9899583",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "LFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 5827,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 32989,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9900253",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "LFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 22153,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9900265",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "LFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 12910,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 29023,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9248930",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "LFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 42243,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 64879,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9872248",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "HFO",
+      "fuelTypes": [
+        "HFO",
+        "MDO/MGO",
+        "LFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 7258,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 70753,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9131060",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "LFO",
+      "fuelTypes": [
+        "LFO",
+        "MDO/MGO",
+        "HFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 8605,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 49226,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9813888",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "HFO",
+      "fuelTypes": [
+        "HFO",
+        "MDO/MGO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 53599,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 69753,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9813864",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "HFO",
+      "fuelTypes": [
+        "HFO",
+        "MDO/MGO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 64967,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 79362,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9308778",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "HFO",
+      "fuelTypes": [
+        "HFO",
+        "MDO/MGO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 10427,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 22956,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9505388",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 11446,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9910246",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO",
+        "LNG"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 51135,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9902225",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "LFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 26225,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9843675",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "LFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 1636,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9812418",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 14721,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9812420",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 2665,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9312339",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 34498,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9568574",
+      "name": "",
+      "shipType": "Unknown",
+      "shipTypeRaw": "",
+      "grossTonnage": 0,
+      "dwt": 0,
+      "yearOfBuild": "",
+      "primaryFuel": "HFO",
+      "fuelTypes": [
+        "HFO",
+        "LFO",
+        "MDO/MGO"
+      ],
+      "trend": "Insufficient Data",
+      "years": {
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 32596,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9134323",
+      "name": "AMAN SENDAI",
+      "shipType": "LNG Carrier",
+      "shipTypeRaw": "LNG",
+      "grossTonnage": 16336,
+      "dwt": 10957,
+      "yearOfBuild": "1997",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO",
+        "LNG",
+        "LFO"
+      ],
+      "trend": "Single Year",
+      "years": {
+        "2019": {
+          "totalCO2": 43298.15,
+          "distanceTravelled": 103157,
+          "attainedCII": 38.307,
+          "requiredCII": 18.773,
+          "rating": "E"
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 110623,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 109585,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 82172,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9030814",
+      "name": "PUTERI DELIMA",
+      "shipType": "LNG Carrier",
+      "shipTypeRaw": "LNG",
+      "grossTonnage": 86205,
+      "dwt": 73519,
+      "yearOfBuild": "1994",
+      "primaryFuel": "LNG",
+      "fuelTypes": [
+        "LNG",
+        "LFO",
+        "MDO/MGO",
+        "HFO"
+      ],
+      "trend": "Single Year",
+      "years": {
+        "2019": {
+          "totalCO2": 79340.41,
+          "distanceTravelled": 87333,
+          "attainedCII": 12.357,
+          "requiredCII": 13.508,
+          "rating": "B"
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 64579,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 81364,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 82116,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9211872",
+      "name": "PUTERI DELIMA SATU",
+      "shipType": "LNG Carrier",
+      "shipTypeRaw": "LNG",
+      "grossTonnage": 94430,
+      "dwt": 75929,
+      "yearOfBuild": "2002",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO",
+        "LNG",
+        "LFO"
+      ],
+      "trend": "Single Year",
+      "years": {
+        "2019": {
+          "totalCO2": 101034.8,
+          "distanceTravelled": 89551,
+          "attainedCII": 14.859,
+          "requiredCII": 12.392,
+          "rating": "E"
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 103062,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 91703,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 77496,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9248502",
+      "name": "PUTERI FIRUS SATU",
+      "shipType": "LNG Carrier",
+      "shipTypeRaw": "LNG",
+      "grossTonnage": 94446,
+      "dwt": 76197,
+      "yearOfBuild": "2004",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO",
+        "LNG"
+      ],
+      "trend": "Single Year",
+      "years": {
+        "2019": {
+          "totalCO2": 95717.62,
+          "distanceTravelled": 75858,
+          "attainedCII": 16.56,
+          "requiredCII": 12.276,
+          "rating": "E"
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 91123,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 84203,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 83552,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9030802",
+      "name": "PUTERI INTAN",
+      "shipType": "LNG Carrier",
+      "shipTypeRaw": "LNG",
+      "grossTonnage": 86205,
+      "dwt": 73519,
+      "yearOfBuild": "1994",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO",
+        "LNG"
+      ],
+      "trend": "Single Year",
+      "years": {
+        "2019": {
+          "totalCO2": 85121.2,
+          "distanceTravelled": 77497,
+          "attainedCII": 14.94,
+          "requiredCII": 13.508,
+          "rating": "D"
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 92066,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 86447,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 80025,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9213416",
+      "name": "PUTERI INTAN SATU",
+      "shipType": "LNG Carrier",
+      "shipTypeRaw": "LNG",
+      "grossTonnage": 94430,
+      "dwt": 75849,
+      "yearOfBuild": "2002",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO",
+        "LNG",
+        "LFO"
+      ],
+      "trend": "Single Year",
+      "years": {
+        "2019": {
+          "totalCO2": 102828.12,
+          "distanceTravelled": 95062,
+          "attainedCII": 14.261,
+          "requiredCII": 12.427,
+          "rating": "E"
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 98514,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 86106,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 76198,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9261205",
+      "name": "PUTERI MUTIARA SATU",
+      "shipType": "LNG Carrier",
+      "shipTypeRaw": "LNG",
+      "grossTonnage": 94446,
+      "dwt": 76229,
+      "yearOfBuild": "2005",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "LNG",
+        "LFO",
+        "HFO"
+      ],
+      "trend": "Single Year",
+      "years": {
+        "2019": {
+          "totalCO2": 94133.8,
+          "distanceTravelled": 104244,
+          "attainedCII": 11.846,
+          "requiredCII": 12.262,
+          "rating": "C"
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 76646,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 92266,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 90837,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9030826",
+      "name": "PUTERI NILAM",
+      "shipType": "LNG Carrier",
+      "shipTypeRaw": "LNG",
+      "grossTonnage": 86211,
+      "dwt": 73519,
+      "yearOfBuild": "1994",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "LNG",
+        "LFO",
+        "HFO"
+      ],
+      "trend": "Single Year",
+      "years": {
+        "2019": {
+          "totalCO2": 90177.34,
+          "distanceTravelled": 82463,
+          "attainedCII": 14.874,
+          "requiredCII": 13.508,
+          "rating": "D"
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 88847,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 80825,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 78356,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9229647",
+      "name": "PUTERI NILAM SATU",
+      "shipType": "LNG Carrier",
+      "shipTypeRaw": "LNG",
+      "grossTonnage": 94446,
+      "dwt": 76124,
+      "yearOfBuild": "2001",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO",
+        "LNG"
+      ],
+      "trend": "Single Year",
+      "years": {
+        "2019": {
+          "totalCO2": 91467.45,
+          "distanceTravelled": 89265,
+          "attainedCII": 13.461,
+          "requiredCII": 12.307,
+          "rating": "C"
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 97361,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 94103,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 100029,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9030838",
+      "name": "PUTERI ZAMRUD",
+      "shipType": "LNG Carrier",
+      "shipTypeRaw": "LNG",
+      "grossTonnage": 86205,
+      "dwt": 73519,
+      "yearOfBuild": "1994",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO",
+        "LNG",
+        "LFO"
+      ],
+      "trend": "Single Year",
+      "years": {
+        "2019": {
+          "totalCO2": 90324.14,
+          "distanceTravelled": 82548,
+          "attainedCII": 14.883,
+          "requiredCII": 13.508,
+          "rating": "D"
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 86336,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 77669,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 80085,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9245031",
+      "name": "PUTERI ZAMRUD SATU",
+      "shipType": "LNG Carrier",
+      "shipTypeRaw": "LNG",
+      "grossTonnage": 94446,
+      "dwt": 76144,
+      "yearOfBuild": "2002",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO",
+        "LNG",
+        "LFO"
+      ],
+      "trend": "Single Year",
+      "years": {
+        "2019": {
+          "totalCO2": 102708.88,
+          "distanceTravelled": 97860,
+          "attainedCII": 13.784,
+          "requiredCII": 12.298,
+          "rating": "D"
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 92537,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 75669,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 93663,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9293832",
+      "name": "SERI ALAM",
+      "shipType": "LNG Carrier",
+      "shipTypeRaw": "LNG",
+      "grossTonnage": 95729,
+      "dwt": 83482,
+      "yearOfBuild": "2004",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "LNG"
+      ],
+      "trend": "Single Year",
+      "years": {
+        "2019": {
+          "totalCO2": 91711.85,
+          "distanceTravelled": 101820,
+          "attainedCII": 10.789,
+          "requiredCII": 9.617,
+          "rating": "D"
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 65219,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 82075,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 99933,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9293844",
+      "name": "SERI AMANAH",
+      "shipType": "LNG Carrier",
+      "shipTypeRaw": "LNG",
+      "grossTonnage": 95729,
+      "dwt": 83400,
+      "yearOfBuild": "2005",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "LNG"
+      ],
+      "trend": "Single Year",
+      "years": {
+        "2019": {
+          "totalCO2": 75559.38,
+          "distanceTravelled": 78135,
+          "attainedCII": 11.595,
+          "requiredCII": 9.642,
+          "rating": "D"
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 89510,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 89560,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 95470,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9321653",
+      "name": "SERI ANGGUN",
+      "shipType": "LNG Carrier",
+      "shipTypeRaw": "LNG",
+      "grossTonnage": 95729,
+      "dwt": 83395,
+      "yearOfBuild": "2005",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO",
+        "LNG"
+      ],
+      "trend": "Single Year",
+      "years": {
+        "2019": {
+          "totalCO2": 62809.28,
+          "distanceTravelled": 89262,
+          "attainedCII": 8.438,
+          "requiredCII": 9.644,
+          "rating": "B"
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 97390,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 77493,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 105145,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9321665",
+      "name": "SERI ANGKASA",
+      "shipType": "LNG Carrier",
+      "shipTypeRaw": "LNG",
+      "grossTonnage": 95729,
+      "dwt": 83403,
+      "yearOfBuild": "2006",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO",
+        "LNG"
+      ],
+      "trend": "Single Year",
+      "years": {
+        "2019": {
+          "totalCO2": 74123.75,
+          "distanceTravelled": 71197,
+          "attainedCII": 12.483,
+          "requiredCII": 9.641,
+          "rating": "D"
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 83295,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 88945,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 80346,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9329679",
+      "name": "SERI AYU",
+      "shipType": "LNG Carrier",
+      "shipTypeRaw": "LNG",
+      "grossTonnage": 95729,
+      "dwt": 83365,
+      "yearOfBuild": "2007",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO",
+        "LNG"
+      ],
+      "trend": "Single Year",
+      "years": {
+        "2019": {
+          "totalCO2": 79155.69,
+          "distanceTravelled": 81396,
+          "attainedCII": 11.665,
+          "requiredCII": 9.653,
+          "rating": "D"
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 79914,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 99775,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 71321,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9331634",
+      "name": "SERI BAKTI",
+      "shipType": "LNG Carrier",
+      "shipTypeRaw": "LNG",
+      "grossTonnage": 105335,
+      "dwt": 90065,
+      "yearOfBuild": "2007",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO",
+        "LNG"
+      ],
+      "trend": "Single Year",
+      "years": {
+        "2019": {
+          "totalCO2": 80688.89,
+          "distanceTravelled": 70067,
+          "attainedCII": 12.786,
+          "requiredCII": 7.851,
+          "rating": "E"
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 99432,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 108136,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 92094,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9331660",
+      "name": "SERI BALHAF",
+      "shipType": "LNG Carrier",
+      "shipTypeRaw": "LNG",
+      "grossTonnage": 107633,
+      "dwt": 91201,
+      "yearOfBuild": "2008",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "LNG"
+      ],
+      "trend": "Single Year",
+      "years": {
+        "2019": {
+          "totalCO2": 76237.52,
+          "distanceTravelled": 130592,
+          "attainedCII": 6.401,
+          "requiredCII": 7.592,
+          "rating": "B"
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 130793,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 111341,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 124826,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9331672",
+      "name": "SERI BALQIS",
+      "shipType": "LNG Carrier",
+      "shipTypeRaw": "LNG",
+      "grossTonnage": 107633,
+      "dwt": 91198,
+      "yearOfBuild": "2009",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "LNG"
+      ],
+      "trend": "Single Year",
+      "years": {
+        "2019": {
+          "totalCO2": 66361.1,
+          "distanceTravelled": 103276,
+          "attainedCII": 7.046,
+          "requiredCII": 7.593,
+          "rating": "C"
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 118825,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 113016,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 84198,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9331646",
+      "name": "SERI BEGAWAN",
+      "shipType": "LNG Carrier",
+      "shipTypeRaw": "LNG",
+      "grossTonnage": 105335,
+      "dwt": 89902,
+      "yearOfBuild": "2007",
+      "primaryFuel": "HFO",
+      "fuelTypes": [
+        "HFO",
+        "LNG",
+        "MDO/MGO"
+      ],
+      "trend": "Single Year",
+      "years": {
+        "2019": {
+          "totalCO2": 92735.21,
+          "distanceTravelled": 103717,
+          "attainedCII": 9.945,
+          "requiredCII": 7.889,
+          "rating": "D"
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 98056,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 111062,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 96459,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9331658",
+      "name": "SERI BIJAKSANA",
+      "shipType": "LNG Carrier",
+      "shipTypeRaw": "LNG",
+      "grossTonnage": 104881,
+      "dwt": 89553,
+      "yearOfBuild": "2008",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "LNG"
+      ],
+      "trend": "Single Year",
+      "years": {
+        "2019": {
+          "totalCO2": 84286.69,
+          "distanceTravelled": 102126,
+          "attainedCII": 9.216,
+          "requiredCII": 7.972,
+          "rating": "D"
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 92569,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 109775,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 94230,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9714305",
+      "name": "SERI CAMAR",
+      "shipType": "LNG Carrier",
+      "shipTypeRaw": "LNG",
+      "grossTonnage": 133612,
+      "dwt": 84295,
+      "yearOfBuild": "2016",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO",
+        "LNG",
+        "LFO"
+      ],
+      "trend": "Single Year",
+      "years": {
+        "2019": {
+          "totalCO2": 71216.55,
+          "distanceTravelled": 74985,
+          "attainedCII": 11.267,
+          "requiredCII": 9.371,
+          "rating": "D"
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 78566,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 91968,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 75055,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9714276",
+      "name": "SERI CAMELLIA",
+      "shipType": "LNG Carrier",
+      "shipTypeRaw": "LNG",
+      "grossTonnage": 133948,
+      "dwt": 84333,
+      "yearOfBuild": "2015",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO",
+        "LNG",
+        "LFO"
+      ],
+      "trend": "Single Year",
+      "years": {
+        "2019": {
+          "totalCO2": 77970.84,
+          "distanceTravelled": 79024,
+          "attainedCII": 11.7,
+          "requiredCII": 9.36,
+          "rating": "E"
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 77729,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 58008,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 76179,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9756389",
+      "name": "SERI CEMARA",
+      "shipType": "LNG Carrier",
+      "shipTypeRaw": "LNG",
+      "grossTonnage": 133948,
+      "dwt": 84333,
+      "yearOfBuild": "2016",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO",
+        "LNG"
+      ],
+      "trend": "Single Year",
+      "years": {
+        "2019": {
+          "totalCO2": 69035.25,
+          "distanceTravelled": 81836,
+          "attainedCII": 10.003,
+          "requiredCII": 9.36,
+          "rating": "C"
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 52233,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 82437,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 68068,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9714290",
+      "name": "SERI CEMPAKA",
+      "shipType": "LNG Carrier",
+      "shipTypeRaw": "LNG",
+      "grossTonnage": 133612,
+      "dwt": 84295,
+      "yearOfBuild": "2015",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO",
+        "LNG",
+        "LFO"
+      ],
+      "trend": "Single Year",
+      "years": {
+        "2019": {
+          "totalCO2": 86720.37,
+          "distanceTravelled": 93149,
+          "attainedCII": 11.044,
+          "requiredCII": 9.371,
+          "rating": "D"
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 82980,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 77644,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 67701,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    },
+    {
+      "imo": "9714288",
+      "name": "SERI CENDERAWASIH",
+      "shipType": "LNG Carrier",
+      "shipTypeRaw": "LNG",
+      "grossTonnage": 133948,
+      "dwt": 84333,
+      "yearOfBuild": "2015",
+      "primaryFuel": "MDO/MGO",
+      "fuelTypes": [
+        "MDO/MGO",
+        "HFO",
+        "LNG",
+        "LFO"
+      ],
+      "trend": "Single Year",
+      "years": {
+        "2019": {
+          "totalCO2": 66117.38,
+          "distanceTravelled": 66998,
+          "attainedCII": 11.702,
+          "requiredCII": 9.36,
+          "rating": "D"
+        },
+        "2020": {
+          "totalCO2": 0,
+          "distanceTravelled": 93256,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2021": {
+          "totalCO2": 0,
+          "distanceTravelled": 83911,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        },
+        "2022": {
+          "totalCO2": 0,
+          "distanceTravelled": 76277,
+          "attainedCII": 0,
+          "requiredCII": 0,
+          "rating": ""
+        }
+      }
+    }
+  ]
+}
